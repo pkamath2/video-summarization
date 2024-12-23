@@ -1,0 +1,8 @@
+numpy==1.23.5
+pandas==2.2.3
+matplotlib==3.9.2
+torch==2.2.2
+sentence_transformers==3.2.1
+ffmpeg_python
+jupyterlab
+ipywidgets
